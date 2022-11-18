@@ -27,8 +27,8 @@ Grid vs Flexbox
 Не треба.
 
 <details>
-<summary>Чому</summary>
-
+<summary>Чому?</summary>
+[Модульні сітки](https://uk.wikipedia.org/wiki/Модульна_система_верстки) — це метод графічного дизайну, який допомагає компонувати
 </details>
 
 Responsive Images
